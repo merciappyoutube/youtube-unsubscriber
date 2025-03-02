@@ -27,3 +27,6 @@ The app simply provides the functionality to unsubscribe from channels on your Y
 
 This project is open source and licensed under the [MIT License](LICENSE).
 
+## Privacy Policy  
+You can read our Privacy Policy [here](https://github.com/merciappyoutube/youtube-unsubscriber/blob/main/privacy-policy.html).
+
